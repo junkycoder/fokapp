@@ -51,7 +51,3 @@ const styles = StyleSheet.create({
 });
 
 AppRegistry.registerComponent('fokapp', () => fokapp);
-});
-
-AppRegistry.registerComponent('fokapp', () => fokapp);
->>>>>>> An React Native App
